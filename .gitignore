@@ -1,3 +1,6 @@
+# locked file
+.~lock.*
+
 # Output from script
 preprocessed_data.csv
 
